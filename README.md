@@ -1,2 +1,2 @@
-# lettered_music_note_player
+# lettered-music-note-player
 Plays lettered music notes.
